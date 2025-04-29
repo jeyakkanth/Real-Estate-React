@@ -19,7 +19,7 @@ Smooth navigation, responsive design, and optimized performance
 
 This project helped me dive deeper into frontend development, component structuring, and modern UI/UX practices. 🙌
 
-🔗 Live Demo: https://lnkd.in/gcpMcQSc
+🔗 Live Demo: [https://lnkd.in/gcpMcQSc](https://real-estate-react-iey.web.app/#Testimonials)
 
 
 Would love to hear your thoughts or suggestions! 😊
